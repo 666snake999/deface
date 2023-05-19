@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8">
+    <title>fsociety</title>
+    
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Creepster&family=Satisfy&display=swap" rel="stylesheet">
+ 
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=UnifrakturMaguntia&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Satisfy&display=swap" rel="stylesheet">
+
+    <style>
+      body {
+        background-color: #000000;
+}
+      h1 {
+        font-family: "Creepster", sans-serif;
+        font-size: 150%;
+        color: purple;
+}
+      h2 {
+        font-family: "UnifrakturMaguntia";
+        font-size: 200%;
+        color: white;
+} 
+    </style>
+  </head>
+  <body>
+    <center>
+      <h1>hacked by Snake</h1>
+      <h2> A loucura é como a gravidade, só precisa de um empurrãozinho </h2> 
+      <img src="https://i.pinimg.com/564x/24/4a/57/244a57de5fab4cad7973e6166e07a890.jpg" width="270px">
+    </center>
+  </body>
+</html>

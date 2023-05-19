@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8">
+    <title>fsociety</title>
+    
+ <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap" rel="stylesheet">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Satisfy&display=swap" rel="stylesheet">
+
+    <style>
+      body {
+        background-color: #000000;
+}
+      h1 {
+        font-family: "Montserrat", sans-serif;
+        font-size: 150%;
+        color: purple;
+}
+      p {
+        font-family: "Satisfy";
+        font-size: 150%;
+        color: white;
+} 
+    </style>
+  </head>
+  <body>
+    <center>
+      <h1>hacked by Snake</h1>
+      <img src="https://i.pinimg.com/564x/85/6e/ce/856eceda69e04842394d067fef725ef3--t-shirt-punk.jpg" width="270px">
+      <p>E preciso observar que, em geral, o carater de todo raciocinio metafísico e teoldgico é o de procurar explicar um absurdo por outro. bakunin  </p>
+    </center>
+  </body>
+</html>
